@@ -33,6 +33,26 @@ EdgeOne Pages 项目配置：
 
 它会把 `site/` 目录部署为 GitHub Pages。这个地址可作为海外/临时预览，不建议作为国内正式访问地址。
 
+当前 GitHub Pages 预览地址：
+
+```text
+https://liguannan-alex.github.io/ai-keyword-navigator/
+```
+
+## 手机下载发布包
+
+当前 Release 地址：
+
+```text
+https://github.com/Liguannan-Alex/ai-keyword-navigator/releases/tag/v1.0.0
+```
+
+下载资产：
+
+```text
+ai-keyword-navigator-root.zip
+```
+
 ## 手机上修改关键词
 
 1. 打开 GitHub 仓库：

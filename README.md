@@ -73,6 +73,18 @@ npm run deploy:temp
 https://github.com/Liguannan-Alex/ai-keyword-navigator
 ```
 
+GitHub Pages 预览：
+
+```text
+https://liguannan-alex.github.io/ai-keyword-navigator/
+```
+
+手机上传包 Release：
+
+```text
+https://github.com/Liguannan-Alex/ai-keyword-navigator/releases/tag/v1.0.0
+```
+
 手机远程维护说明见：
 
 ```text
