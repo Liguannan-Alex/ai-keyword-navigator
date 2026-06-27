@@ -67,6 +67,12 @@ npm run deploy:temp
 3. EdgeOne Pages 连接 GitHub 仓库，构建目录设置为 `site`。
 4. 以后在手机上改 GitHub 文件并提交，平台自动重新部署。
 
+当前 GitHub 仓库：
+
+```text
+https://github.com/Liguannan-Alex/ai-keyword-navigator
+```
+
 手机远程维护说明见：
 
 ```text

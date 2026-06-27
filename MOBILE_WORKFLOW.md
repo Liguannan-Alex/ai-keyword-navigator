@@ -23,6 +23,16 @@ EdgeOne Pages 项目配置：
 
 这样以后每次 GitHub 仓库更新，EdgeOne Pages 会自动重新部署。
 
+## GitHub Pages 预览
+
+仓库已经包含 GitHub Pages 自动部署工作流：
+
+```text
+.github/workflows/pages.yml
+```
+
+它会把 `site/` 目录部署为 GitHub Pages。这个地址可作为海外/临时预览，不建议作为国内正式访问地址。
+
 ## 手机上修改关键词
 
 1. 打开 GitHub 仓库：
