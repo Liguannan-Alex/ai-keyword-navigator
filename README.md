@@ -66,3 +66,9 @@ npm run deploy:temp
 2. 国内访问用腾讯云 EdgeOne Pages 或对象存储静态网站。
 3. EdgeOne Pages 连接 GitHub 仓库，构建目录设置为 `site`。
 4. 以后在手机上改 GitHub 文件并提交，平台自动重新部署。
+
+手机远程维护说明见：
+
+```text
+MOBILE_WORKFLOW.md
+```
