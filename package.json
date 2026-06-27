@@ -1,0 +1,12 @@
+{
+  "name": "ai-keyword-navigator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI keyword navigation site with search engine and model jump links.",
+  "scripts": {
+    "serve": "node tools/serve.mjs",
+    "deploy": "npx wrangler pages deploy site --project-name ai-keyword-navigator",
+    "deploy:temp": "npx wrangler deploy --config wrangler.worker.jsonc --temporary",
+    "package:cn": "zip -j release/ai-keyword-navigator-root.zip site/index.html site/styles.css site/data.js site/app.js site/_headers"
+  }
+}
